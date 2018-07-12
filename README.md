@@ -12,7 +12,7 @@ The only downside is that the ur0 partition will be trimmed down to 1GB.
 ![ref1](https://cdn.discordapp.com/attachments/466454495258476545/466873056250429441/IMG_20180711_222431.jpg)
 
 # Installation:
-1) Download and install the provided VPK file. If you are using ENSO NSKBL hack, make sure that the correct enso installer is installed.
+1) Download and install the provided VPK file. If you are using ENSO NSKBL hack, make sure that the correct enso installer is installed (You can grab one from here: https://github.com/SKGleba/IMCUnlock/tree/master/enso-installers).
 
 2) Make a backup of all important ur0 files (they should be safe, but better to be sure)
 

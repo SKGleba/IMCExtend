@@ -4,6 +4,7 @@ MBR Magic by SKGleba
 ![ref0](https://cdn.discordapp.com/attachments/466454495258476545/466873102870118400/IMG_20180712_010439.jpg)
 
 # This guide applies ONLY to Playstation Vita 2XXX models and Playstation TV, commonly called "Slim" and "PSTV".
+If you have a Playstation Vita Phat check out https://github.com/SKGleba/IMCUnlock
 # Introduction:
 This mod allows you to _permanently_ extend the internal ux0 storage to 1.5GB by modifying boot data regions.
 The only downside is that the ur0 partition will be trimmed down to 1GB.

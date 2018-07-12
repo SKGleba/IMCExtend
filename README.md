@@ -1,17 +1,21 @@
 # IMCExtend
 MBR Magic by SKGleba
 
+![ref0](https://cdn.discordapp.com/attachments/466454495258476545/466873102870118400/IMG_20180712_010439.jpg)
+
 # This guide applies ONLY to Playstation Vita 2XXX models and Playstation TV, commonly called "Slim" and "PSTV".
 # Introduction:
 This mod allows you to _permanently_ extend the internal ux0 storage to 1.5GB by modifying boot data regions.
 The only downside is that the ur0 partition will be trimmed down to 1GB.
+
+![ref1](https://cdn.discordapp.com/attachments/466454495258476545/466873056250429441/IMG_20180711_222431.jpg)
 
 # Installation:
 1) Download and install the provided VPK file. If you are using ENSO NSKBL hack, make sure that the correct enso installer is installed.
 
 2) Make a backup of all important ur0 files (they should be safe, but better to be sure)
 
-3) Open IMCExtend, accept the agreement, navigate to "Options->Backup", and select "Backup vd0". Eventually you may backup ur0/tm0/id_data too. Dumps are saved to ux0:data/%name%.img
+3) Open IMCExtend, accept the agreement, navigate to "Options->Backup", and select "Backup vd0". Eventually you may backup tm0/id_data too. Dumps are saved to ux0:data/%name%.img
 
 4) Disable all unnecessary plugins and reboot.
 
@@ -22,6 +26,7 @@ The only downside is that the ur0 partition will be trimmed down to 1GB.
 7) DO NOT TOUCH THE DEVICE UNTIL IT FINISHES
 
 8) After flashing, the following screen should appear:
+![ref6](https://cdn.discordapp.com/attachments/466454495258476545/466462385499275274/IMG_20180711_063154.jpg)
 
 9) If you are a user of ENSO NSKBL hack - launch the enso installer and install enso, otherwise - reboot.
 

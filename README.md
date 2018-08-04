@@ -1,3 +1,5 @@
+# This tool is outdated, use https://github.com/SKGleba/IMCUnlock instead.
+
 # IMCExtend
 MBR Magic by SKGleba
 
